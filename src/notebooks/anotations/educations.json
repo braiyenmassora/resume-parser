@@ -1,0 +1,2890 @@
+{
+    "classes": ["EDUCATIONS"],
+    "annotations": [
+        ["                                  Universitas Gadjah Mada            Sleman", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Indonesia             Depok", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Diponegoro          Semarang", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Pendidikan Indonesia           Bandung", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Negeri Yogyakarta            Sleman", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Brawijaya            Malang", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Airlangga          Surabaya", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Sebelas Maret         Surakarta", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Institut Pertanian Bogor             Bogor", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Lampung    Bandar Lampung", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Negeri Semarang          Semarang", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Institut Teknologi Bandung           Bandung", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Bina Nusantara           Jakarta", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Muhammadiyah Malang            Malang", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Muhammadiyah Surakarta         Surakarta", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Negeri Malang            Malang", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                      Universitas Muhammadiyah Yogyakarta            Bantul", {
+            "entities": [
+                [22, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Udayana            Badung", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                      Institut Teknologi Sepuluh Nopember          Surabaya", {
+            "entities": [
+                [22, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Andalas            Padang", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Sumatera Utara             Medan", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Gunadarma             Depok", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Jember            Jember", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Telkom           Bandung", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Mercu Buana           Jakarta", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["    Universitas Islam Negeri Maulana Malik Ibrahim Malang            Malang", {
+            "entities": [
+                [4, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Islam Indonesia            Sleman", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["     Universitas Islam Negeri Syarif Hidayatullah Jakarta Tangerang Selatan", {
+            "entities": [
+                [5, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Dian Nuswantoro          Semarang", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Padjadjaran          Sumedang", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                        Universitas Jambi             Jambi", {
+            "entities": [
+                [40, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["            Universitas Islam Negeri Sunan Ampel Surabaya          Surabaya", {
+            "entities": [
+                [12, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Syiah Kuala        Banda Aceh", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Hasanuddin          Makassar", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Pasundan           Bandung", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Jenderal Soedirman          Banyumas", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Muhammadiyah Semarang          Semarang", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["       Universitas Islam Negeri Sunan Kalijaga Yogyakarta            Sleman", {
+            "entities": [
+                [7, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Islam Negeri Walisongo          Semarang", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Kristen Petra          Surabaya", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Negeri Surabaya          Surabaya", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["        Universitas Islam Negeri Sultan Syarif Kasim Riau         Pekanbaru", {
+            "entities": [
+                [8, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Sanata Dharma            Sleman", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Esa Unggul           Jakarta", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Ahmad Dahlan        Yogyakarta", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Atma Jaya Yogyakarta            Sleman", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Negeri Padang            Padang", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Sriwijaya         Palembang", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Sam Ratulangi            Manado", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Bengkulu          Bengkulu", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["               Universitas Islam Negeri Alauddin Makassar          Makassar", {
+            "entities": [
+                [15, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["              Universitas Islam Negeri Sunan Gunung Djati           Bandung", {
+            "entities": [
+                [14, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Islam Bandung           Bandung", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Komputer Indonesia           Bandung", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Pamulang         Tangerang", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                      Universitas Muhammadiyah Purwokerto          Banyumas", {
+            "entities": [
+                [22, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                         Universitas Riau         Pekanbaru", {
+            "entities": [
+                [41, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Pendidikan Ganesha         Singaraja", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Muhammadiyah Ponorogo          Ponorogo", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Islam Sultan Agung          Semarang", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas PGRI Madiun            Madiun", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Negeri Medan             Medan", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Narotama          Surabaya", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                  Universitas Islam Negeri Sumatera Utara             Medan", {
+            "entities": [
+                [18, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Tanjungpura         Pontianak", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Mulawarman         Samarinda", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Sarjanawiyata Tamansiswa        Yogyakarta", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Pelita Harapan         Tangerang", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Negeri Jakarta           Jakarta", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Surabaya          Surabaya", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Lambung Mangkurat       Banjarmasin", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Dr. Soetomo          Surabaya", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                  Universitas Katolik Indonesia Atma Jaya           Jakarta", {
+            "entities": [
+                [18, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                      Universitas Bina Sarana Informatika           Bandung", {
+            "entities": [
+                [22, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas 17 Agustus 1945 Surabaya          Surabaya", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Katolik Soegijapranata          Semarang", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Katolik Parahyangan           Bandung", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                  Universitas Muhammadiyah Sumatera Utara             Medan", {
+            "entities": [
+                [18, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Mercu Buana Yogyakarta        Yogyakarta", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Tadulako              Palu", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Kristen Maranatha           Bandung", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Kristen Duta Wacana        Yogyakarta", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Trisakti           Jakarta", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["             Universitas Islam Negeri Raden Intan Lampung    Bandar Lampung", {
+            "entities": [
+                [13, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Medan Area             Medan", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Mataram           Mataram", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Muhammadiyah Sidoarjo          Sidoarjo", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["               Universitas Katolik Widya Mandala Surabaya          Surabaya", {
+            "entities": [
+                [15, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["         Universitas Pembangunan Nasional Veteran Jakarta           Jakarta", {
+            "entities": [
+                [9, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Semarang          Semarang", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Kristen Satya Wacana          Salatiga", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["      Universitas Pembangunan Nasional Veteran Yogyakarta            Sleman", {
+            "entities": [
+                [6, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Sultan Ageng Tirtayasa            Serang", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Widyatama           Bandung", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Muhammadiyah Surabaya          Surabaya", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                 Universitas Muhammadiyah Prof. Dr. Hamka           Jakarta", {
+            "entities": [
+                [17, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Negeri Makassar          Makassar", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Trunojoyo Madura         Bangkalan", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Institut Seni Indonesia Yogyakarta        Yogyakarta", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Islam Negeri Ar-Raniry        Banda Aceh", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Swadaya Gunung Jati           Cirebon", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Ciputra          Surabaya", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Muhammadiyah Purworejo         Purworejo", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Muria Kudus             Kudus", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Islam Negeri Raden Fatah         Palembang", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["      Universitas Pembangunan Nasional Veteran Jawa Timur          Surabaya", {
+            "entities": [
+                [6, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Muhammadiyah Metro             Metro", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Islam Malang            Malang", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Halu Oleo           Kendari", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Tarumanagara      West Jakarta", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas AMIKOM Yogyakarta            Sleman", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Budi Luhur           Jakarta", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Multimedia Nusantara         Tangerang", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Institut Seni Indonesia Surakarta         Surakarta", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Darma Persada           Jakarta", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Muhammadiyah Jakarta   South Tangerang", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Potensi Utama             Medan", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Negeri Gorontalo         Gorontalo", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                    Universitas 17 Agustus 1945 Samarinda         Samarinda", {
+            "entities": [
+                [20, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Wahid Hasyim          Semarang", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Institut Teknologi Nasional           Bandung", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Darussalam Gontor          Ponorogo", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Pakuan             Bogor", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Dinamika          Surabaya", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Tidar Magelang          Magelang", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Nasional           Jakarta", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas PGRI Semarang          Semarang", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Aisyiyah Yogyakarta            Sleman", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Malikussaleh        Aceh Utara", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Bina Darma         Palembang", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Pancasila           Jakarta", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Stikubank          Semarang", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Institut Seni Indonesia Denpasar          Denpasar", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Al Azhar Indonesia           Jakarta", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Islam Negeri Antasari       Banjarmasin", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Muhammadiyah Makassar          Makassar", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Pattimura             Ambon", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Siliwangi       Tasikmalaya", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                        Universitas YARSI           Jakarta", {
+            "entities": [
+                [40, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Kanjuruhan Malang            Malang", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Muhammadiyah Jember            Jember", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Merdeka Malang            Malang", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Presiden          Jababeka", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Muhammadiyah Palembang         Palembang", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                    Universitas Muhammadiyah Palangkaraya      Palangkaraya", {
+            "entities": [
+                [20, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Muhammadiyah Magelang          Magelang", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Paramadina           Jakarta", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Bangka Belitung     Pangkalpinang", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Bakrie           Jakarta", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Tribhuwana Tungga Dewi            Malang", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Maritim Raja Ali Haji    Tanjung Pinang", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Muslim Indonesia          Makassar", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Jenderal Achmad Yani            Cimahi", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Kuningan          Kuningan", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas 17 Agustus 1945 Semarang          Semarang", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Sulawesi Barat            Majene", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Nahdlatul Ulama Surabaya          Surabaya", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                      Universitas Singaperbangsa Karawang          Karawang", {
+            "entities": [
+                [22, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Islam Riau         Pekanbaru", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Kristen Indonesia           Jakarta", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Islam Sumatera Utara             Medan", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas PGRI Palembang         Palembang", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Nusantara PGRI Kediric            Kediri", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                    Universitas Buana Perjuangan Karawang          Karawang", {
+            "entities": [
+                [20, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Muhammadiyah Aceh        Banda Aceh", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Hang Tuah          Surabaya", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                        Universitas Papua         Manokwari", {
+            "entities": [
+                [40, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Muhammadiyah Gresik            Gresik", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Wijaya Kusuma Surabaya          Surabaya", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Nusa Cendana            Kupang", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                        Universitas Garut             Garut", {
+            "entities": [
+                [40, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Khairun           Ternate", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Samudra Langsa            Langsa", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Slamet Riyadi         Surakarta", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Bhayangkara Jakarta Raya           Jakarta", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Alma Ata        Yogyakarta", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Palangka Raya     Palangka Raya", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Bunda Mulia           Jakarta", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Djuanda             Bogor", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                 Universitas Pesantren Tinggi Darul 'Ulum           Jombang", {
+            "entities": [
+                [17, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["  Universitas Islam Kalimantan Muhammad Arsyad Al Banjari       Banjarmasin", {
+            "entities": [
+                [2, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Pertamina           Jakarta", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Warmadewa          Denpasar", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas 17 Agustus 1945           Jakarta", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Darussalam Ambon             Ambon", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Prima Indonesia             Medan", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Teknologi Yogyakarta            Sleman", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Muhammadiyah Banjarmasin       Banjarmasin", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Setia Budi Surakarta         Surakarta", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Lancang Kuning         Pekanbaru", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Muhammadiyah Riau         Pekanbaru", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Hamzanwadi      Lombok Timur", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Negeri Manado          Minahasa", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Ibn Khaldun             Bogor", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Dehasen Bengkulu          Bengkulu", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Sains Al-Qur'an          Wonosobo", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Bung Hatta            Padang", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Internasional Batam             Batam", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Respati Indonesia           Jakarta", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Kristen Krida Wacana           Jakarta", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Teuku Umar        Aceh Barat", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Cenderawasih          Jayapura", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Galuh Ciamis            Ciamis", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Islam Nahdlatul Ulama            Jepara", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Swiss German         Tangerang", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Indraprasta PGRI           Jakarta", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas PGRI Yogyakarta            Bantul", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas HKBP Nommensen             Medan", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Muhammadiyah Cirebon           Cirebon", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                    Universitas Islam Darul Ulum Lamongan          Lamongan", {
+            "entities": [
+                [20, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Muhammadiyah Sukabumi          Sukabumi", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Pembangunan Panca Budi             Medan", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas PGRI Adi Buana          Surabaya", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Mahasaraswati Denpasar          Denpasar", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Pembangunan Jaya Tangerang Selatan", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Bandar Lampung    Bandar Lampung", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Balikpapan        Balikpapan", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Islam Negeri Imam Bonjol            Padang", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["Universitas Islam Negeri Sultan Maulana Hasanuddin Banten            Serang", {
+            "entities": [
+                [0, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Cokroaminoto Palopo            Palopo", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Islam Negeri Mataram           Mataram", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Ma Chung            Malang", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                   Universitas Muhammadiyah Luwuk Banggai           Banggai", {
+            "entities": [
+                [19, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Muhammadiyah Mataram           Mataram", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Majalengka        Majalengka", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Muhammadiyah Tangerang         Tangerang", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Institut Teknologi Nasional Malang            Malang", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Katolik Widya Mandira            Kupang", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Teknokrat Indonesia    Bandar Lampung", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Ngudi Waluyo           Ungaran", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Jayabaya           Jakarta", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Panca Marga       Probolinggo", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Persada Indonesia YAI           Jakarta", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Riau Kepulauan             Batam", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Proklamasi 45            Sleman", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                Universitas Muhammadiyah Kalimantan Timur         Samarinda", {
+            "entities": [
+                [16, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Musamus Merauke           Merauke", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Prasetiya Mulya           Jakarta", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Pancasakti             Tegal", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Pekalongan        Pekalongan", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Muhammadiyah Pontianak         Pontianak", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Advent Indonesia           Bandung", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                   Institut Seni Indonesia Padang Panjang     Padangpanjang", {
+            "entities": [
+                [19, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Sampoerna           Jakarta", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Serambi Mekkah        Banda Aceh", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Janabadra        Yogyakarta", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Pendidikan Nasional          Denpasar", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                  Universitas Putra Indonesia YPTK Padang            Padang", {
+            "entities": [
+                [18, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Muhammadiyah Kudus             Kudus", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Borneo Tarakan           Tarakan", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Muhammadiyah Palu              Palu", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Yudharta Pasuruan          Pasuruan", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Putera Batam             Batam", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                        Universitas Fajar          Makassar", {
+            "entities": [
+                [40, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Podomoro           Jakarta", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                        Universitas Sahid           Jakarta", {
+            "entities": [
+                [40, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Islam Jakarta           Jakarta", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Sangga Buana           Bandung", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Malahayati    Bandar Lampung", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Alkhairaat              Palu", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Indo Global Mandiri         Palembang", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                  Universitas Muhammadiyah Sumatera Barat            Padang", {
+            "entities": [
+                [18, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Batanghari             Jambi", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Muhammadiyah Bengkulu          Bengkulu", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Islam Lamongan          Lamongan", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Nahdlatul Ulama Blitar            Blitar", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Dharma Andalas            Padang", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Abdurrab         Pekanbaru", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Klabat    Minahasa Utara", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Widya Gama            Malang", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["   Universitas Islam Negeri Sulthan Thaha Saifuddin Jambi             Jambi", {
+            "entities": [
+                [3, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Bhayangkara Surabaya          Surabaya", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Respati Yogyakarta            Sleman", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Wijaya Putra          Surabaya", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Wisnuwardhana            Malang", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Wiralodra         Indramayu", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Nusa Putra          Sukabumi", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Nurul Jadid       Probolinggo", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Prof. Dr. Moestopo           Jakarta", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                        Universitas Surya         Tangerang", {
+            "entities": [
+                [40, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Islam Syekh-Yusuf         Tangerang", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Pasir Pengaraian        Rokan Hulu", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                Universitas Sembilanbelas November Kolaka            Kolaka", {
+            "entities": [
+                [16, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                Universitas Internasional Semen Indonesia            Gresik", {
+            "entities": [
+                [16, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Surakarta         Surakarta", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Islam Nusantara           Bandung", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Islam Kadiri            Kediri", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                Universitas Muslim Nusantara Al-Washliyah             Medan", {
+            "entities": [
+                [16, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Kadiri            Kediri", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Baiturrahmah            Padang", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Al Muslim           Bireuen", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Hindu Indonesia          Denpasar", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Muhammadiyah Gorontalo         Gorontalo", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Islam 45 Bekasi            Bekasi", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                        Universitas Timor        Kefamenanu", {
+            "entities": [
+                [40, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Langlangbuana           Bandung", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Widya Mataram        Yogyakarta", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Merdeka Madiun            Madiun", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Abulyatama        Aceh Besar", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Krisnadwipayana           Jakarta", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Widya Kartika          Surabaya", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Maarif Hasyim Latif          Sidoarjo", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Atma Jaya Makassar          Makassar", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Islam Majapahit         Mojokerto", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Patria Artha          Makassar", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Ubudiyah Indonesia        Banda Aceh", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Bung Karno           Jakarta", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Islam Batik         Surakarta", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Dhyana Pura            Badung", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Satyagama           Jakarta", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Bojonegoro        Bojonegoro", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Widya Dharma            Klaten", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Muhammadiyah Kendari           Kendari", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Dian Nusantara             Medan", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Teknologi Sumbawa           Sumbawa", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Suryakancana           Cianjur", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Veteran Bangun Nusantara         Sukoharjo", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Ekasakti            Padang", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Madura         Pamekasan", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Teknologi Sulawesi Utara            Manado", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Pandanaran          Semarang", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Buddhi Dharma         Tangerang", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Asahan            Asahan", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Katolik De La Salle            Manado", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Muhammadiyah Tasikmalaya       Tasikmalaya", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                Universitas Muhammadiyah Tapanuli Selatan  Padang Sidempuan", {
+            "entities": [
+                [16, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas KH. A. Wahab Hasbullah Kabupaten Jombang", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Darma Agung             Medan", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Wijaya Kusuma Purwokerto        Purwokerto", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Tunas Pembangunan         Surakarta", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas PGRI Banyuwangi        Banyuwangi", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Trilogi           Jakarta", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Sahid Surakarta         Surakarta", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Kebangsaan           Bandung", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Gajayana Malang            Malang", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Wiraraja           Sumenep", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Katolik Musi Charitas         Palembang", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Katolik Widya Karya            Malang", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas PGRI Ronggolawe             Tuban", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Islam Raden Rahmat            Malang", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Nahdlatul Ulama Sidoarjo          Sidoarjo", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Dharmawangsa             Medan", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Katolik Santo Thomas             Medan", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Pahlawan Tuanku Tambusai            Kampar", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["               Universitas Dirgantara Marsekal Suryadarma           Jakarta", {
+            "entities": [
+                [15, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Abdurachman Saleh         Situbondo", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                 Universitas Katolik Widya Mandala Madiun            Madiun", {
+            "entities": [
+                [17, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Kristen Indonesia Paulus          Makassar", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Satya Negara Indonesia           Jakarta", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Islam Madura Pamekasan         Pamekasan", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Mpu Tantular           Jakarta", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Tridinanti Palembang         Palembang", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Kutai Kartanegara Kutai Kartanegara", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Duta Bangsa Surakarta         Surakarta", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                      Universitas Cokroaminoto Yogyakarta        Yogyakarta", {
+            "entities": [
+                [22, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Bosowa          Makassar", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Muhammadiyah Parepare          Parepare", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Nusa Bangsa             Bogor", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Muhammadiyah Sorong            Sorong", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Hasyim Asy'ari           Jombang", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Sari Mutiara Indonesia             Medan", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Panca Bhakti         Pontianak", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Tanri Abeng           Jakarta", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Gorontalo         Gorontalo", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Islam As-Syafiiyah           Jakarta", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                 Universitas Widya Gama Mahakam Samarinda         Samarinda", {
+            "entities": [
+                [17, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["               Universitas Lintas Internasional Indonesia          BSD City", {
+            "entities": [
+                [15, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Islam Attahiriyah           Jakarta", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                   Universitas Nahdlatul Ulama Al Ghazali           Cilacap", {
+            "entities": [
+                [19, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Islam Balitar            Blitar", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Islam Indragiri   Indragiri Hilir", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                          Universitas AKI          Semarang", {
+            "entities": [
+                [42, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Cokroaminoto Makassar          Makassar", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Subang            Subang", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Katolik Darma Cendika          Surabaya", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Mathla'ul Anwar        Pandeglang", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["              Universitas Graha Nusantara Padangsidimpuan   Padangsidimpuan", {
+            "entities": [
+                [14, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Serang Raya            Serang", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Mohammad Husni Thamrin           Jakarta", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["           Universitas Darul Ulum Islamic Centre Sudirman           Ungaran", {
+            "entities": [
+                [11, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                        Universitas Batam             Batam", {
+            "entities": [
+                [40, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Bale Bandung           Bandung", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Universal             Batam", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Simalungun   Pematangsiantar", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Methodist Indonesia             Medan", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Gresik            Gresik", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Nurtanio           Bandung", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Tamansiswa            Padang", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["             Universitas Informatika Dan Bisnis Indonesia           Bandung", {
+            "entities": [
+                [13, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Kristen Immanuel            Sleman", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Sintuwu Maroso              Poso", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                    Universitas Nahdlatul Ulama Indonesia           Jakarta", {
+            "entities": [
+                [20, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Matana         Tangerang", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                   Universitas Nahdlatul Ulama Yogyakarta        Yogyakarta", {
+            "entities": [
+                [19, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Prof. DR. Hazairin SH.          Bengkulu", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                          Universitas IBA         Palembang", {
+            "entities": [
+                [42, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Peradaban Bumiayu            Brebes", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Ngurah Rai          Denpasar", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Borobudur           Jakarta", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Sang Bumi Ruwa Jurai    Bandar Lampung", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Ichsan Gorontalo         Gorontalo", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Darul 'ulum           Jombang", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Jakarta           Jakarta", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Timbul Nusantara           Jakarta", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Islam Al-azhar Mataram           Mataram", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Halmahera            Tobelo", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                   Universitas 17 Agustus 1945 Banyuwangi        Banyuwangi", {
+            "entities": [
+                [19, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Merdeka Pasuruan          Pasuruan", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Kristen Surakarta         Surakarta", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                    Universitas Muhammadiyah Maluku Utara           Ternate", {
+            "entities": [
+                [20, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                      Universitas 17 Agustus 1945 Cirebon           Cirebon", {
+            "entities": [
+                [22, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Nusantara Manado            Manado", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Muhammadiyah Buton            Baubau", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Islam Makassar          Makassar", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Tama Jagakarsa           Jakarta", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                      Universitas Nahdlatul Ulama Cirebon           Cirebon", {
+            "entities": [
+                [22, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["             Universitas Nahdlatul Ulama Kalimantan Timur         Samarinda", {
+            "entities": [
+                [13, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Andi Djemma            Palopo", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Kristen Indonesia Maluku             Ambon", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Kader Bangsa         Palembang", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Tulang Bawang    Bandar Lampung", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Azzahra           Jakarta", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Dayanu Ikhsanuddin            Baubau", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Islam Kuantan Singingi  Kuantan Singingi", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Banten Jaya            Serang", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Yapis Papua          Jayapura", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Nasional Pasim           Bandung", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Jabal Ghafur             Pidie", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Muhammadiyah Lampung    Bandar Lampung", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Efarina              Raya", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                    Universitas Al-washliyah Labuhan Batu      Labuhan Batu", {
+            "entities": [
+                [20, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                    Universitas Nahdlatul Ulama Surakarta         Surakarta", {
+            "entities": [
+                [20, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Dwijendra          Denpasar", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Al Ghifari           Bandung", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                    Universitas Kristen Wira Wacana Sumba       Sumba Timur", {
+            "entities": [
+                [20, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Flores              Ende", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Darwan Ali            Sampit", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Mahaputra Muhammad Yamin             Solok", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Islam Jember            Jember", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas 45 Surabaya          Surabaya", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Winaya Mukti          Sumedang", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Boyolali          Boyolali", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Kristen Artha Wacana            Kupang", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Tjut Nyak Dhien             Medan", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Quality             Medan", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Palembang         Palembang", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Sunan Giri          Sidoarjo", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Muhadi Setiabudi            Brebes", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Al-Azhar             Medan", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Pancasakti Makassar          Makassar", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Perjuangan Tasikmalaya       Tasikmalaya", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Muhammadiyah Bandung           Bandung", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Wanita Internasional           Bandung", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["               Universitas Pembinaan Masyarakat Indonesia             Medan", {
+            "entities": [
+                [15, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Wahidiyah            Kediri", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Gunung Rinjani            Selong", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Selamat Sri            Kendal", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Kristen Indonesia Toraja       Tana Toraja", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                      Universitas Nahdlatul Ulama Lampung     Lampung Timur", {
+            "entities": [
+                [22, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["               Universitas Pendidikan Muhammadiyah Sorong             Aimas", {
+            "entities": [
+                [15, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Nahdlatul Wathan           Mataram", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Ibnu Chaldun           Jakarta", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Panji Sakti         Singaraja", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Al Asyariah Mandar   Polewali Mandar", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Sultan Fatah             Demak", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                   Universitas Nahdlatul Ulama Purwokerto          Banyumas", {
+            "entities": [
+                [19, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Yos Soedarso          Surabaya", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Mahasaraswati Mataram           Mataram", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["          Universitas Nahdlatul Ulama Nusa Tenggara Barat           Mataram", {
+            "entities": [
+                [10, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Antakusuma     Pangkalan Bun", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Pembangunan Indonesia            Manado", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                    Universitas Kristen Indonesia Tomohon           Tomohon", {
+            "entities": [
+                [20, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Karimun           Karimun", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Surapati           Jakarta", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Baturaja Ogan Komering Ulu", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Kahuripan Kediri            Kediri", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Billfath          Lamongan", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Alwashliyah             Medan", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Muhammadiyah Kupang            Kupang", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Islam Al-Ihya Kuningan          Kuningan", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Putra Indonesia           Cianjur", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                   Universitas Nahdlatul Ulama Sunan Giri        Bojonegoro", {
+            "entities": [
+                [19, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                 Universitas Sains dan Teknologi Jayapura          Jayapura", {
+            "entities": [
+                [17, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Tamansiswa Palembang         Palembang", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas WR Supratman          Surabaya", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Tulungagung       Tulungagung", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Muara Bungo             Bungo", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Mahendradatta          Denpasar", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Dharmas Indonesia       Dharmasraya", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Tabanan           Tabanan", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Kristen Papua            Sorong", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas PGRI Palangkaraya     Palangka Raya", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Madako Toli-toli          Tolitoli", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Kapuas Sintang           Sintang", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Nusa Tenggara Barat           Mataram", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Sjakhyakirti         Palembang", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Gajah Putih       Aceh Tengah", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Wiraswasta Indonesia           Jakarta", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Bandung Raya           Bandung", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Indonesia Timur          Makassar", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Iskandarmuda        Banda Aceh", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                     Universitas Bumi Hijrah Maluku Utara  Tidore Kepulauan", {
+            "entities": [
+                [21, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Sari Putra Tomohon           Tomohon", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Nusa Nipa           Maumere", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Mayjen Sungkono         Mojokerto", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["               Universitas Nahdlatul Ulama Sumatera Barat            Padang", {
+            "entities": [
+                [15, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Sawerigading Makassar          Makassar", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Tribuana Kalabahi              Alor", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Soerjo             Ngawi", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Achmad Yani       Banjarmasin", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Teknologi Sulawesi          Makassar", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Amir Hamzah      Deli Serdang", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Pawyatan Daha            Kediri", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Merdeka Surabaya          Surabaya", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas 45 Mataram           Mataram", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Samawa     Sumbawa Besar", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Kartini          Surabaya", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["             Universitas Nahdlatul Ulama Kalimantan Barat         Pontianak", {
+            "entities": [
+                [13, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Tridharma Balikpapan        Balikpapan", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Victory Sorong            Sorong", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Sunan Bonang             Tuban", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["           Universitas Islam Ogan Komering Ilir Kayuagung        Kayu Agung", {
+            "entities": [
+                [11, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Kristen Palangka Raya     Palangka Raya", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["               Universitas Nahdlatul Ulama Sumatera Utara      Deli Serdang", {
+            "entities": [
+                [15, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Trunajaya           Bontang", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                Universitas Hein Namotemo   Halmahera Utara", {
+            "entities": [
+                [32, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Pramita Indonesia         Tangerang", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Prisma            Manado", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Lumajang          Lumajang", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Teknologi Nusantara            Serang", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Mochammad Sroedji            Jember", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Bondowoso         Bondowoso", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Tompotika           Banggai", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Kaltara     Tanjung Selor", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Merdeka Ponorogo          Ponorogo", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                   Universitas Pejuang Republik Indonesia          Makassar", {
+            "entities": [
+                [19, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas Iqra Buru            Namlea", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["           Universitas Nahdlatul Ulama Kalimantan Selatan            Banjar", {
+            "entities": [
+                [11, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                   Universitas Musi Rawas      Lubuklinggau", {
+            "entities": [
+                [35, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Bakti Indonesia        Banyuwangi", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                 Universitas Gunung Kidul      Gunung Kidul", {
+            "entities": [
+                [33, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                      Universitas Persatuan Guru 1945 NTT            Kupang", {
+            "entities": [
+                [22, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                    Universitas San Pedro            Kupang", {
+            "entities": [
+                [36, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Gunung Leuser Aceh     Aceh Tenggara", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Teknologi Surabaya          Surabaya", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["            Universitas Nahdlatul Ulama Sulawesi Tenggara           Kendari", {
+            "entities": [
+                [12, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                  Universitas Mohammad Natsir Bukittinggi       Bukittinggi", {
+            "entities": [
+                [18, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Islam Labuhan Batu      Labuhan Batu", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Sains Cut Nyak Dhien            Langsa", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                      Universitas Megou Pak Tulang Bawang     Tulang Bawang", {
+            "entities": [
+                [22, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Lakidende Unaaha            Konawe", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["          Universitas Sisingamangaraja XII Tapanuli Utara    Tapanuli Utara", {
+            "entities": [
+                [10, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                      Universitas Cordova     Sumbawa Barat", {
+            "entities": [
+                [38, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Nani Bili Nusantara             Aimas", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                        Universitas Karya Dharma Makassar          Makassar", {
+            "entities": [
+                [24, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                               Universitas Ottow Geissler          Jayapura", {
+            "entities": [
+                [31, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                       Universitas Doktor Nugroho Magetan           Magetan", {
+            "entities": [
+                [23, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Satya Wiyata Mandala            Nabire", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Pasifik Morotai           Morotai", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Aryasatya Deo Muri            Kupang", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                     Universitas Tomakaka            Mamuju", {
+            "entities": [
+                [37, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Islam Sumatera Barat             Solok", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Karyadarma Kupang            Kupang", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["              Universitas Ma'arif Nahdlatul Ulama Kebumen           Kebumen", {
+            "entities": [
+                [14, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                          Universitas Teknologi Indonesia          Denpasar", {
+            "entities": [
+                [26, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                           Universitas Setia Budi Mandiri             Medan", {
+            "entities": [
+                [27, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Nusa Lontar Rote         Rote-Ndao", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Kejuangan 45 Jakarta           Jakarta", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                  Universitas Ratu Samban       Arga Makmur", {
+            "entities": [
+                [34, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                         Universitas Karo              Karo", {
+            "entities": [
+                [41, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Dumoga Kotamobagu        Kotamobagu", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                         Universitas Sisingamangaraja XII             Medan", {
+            "entities": [
+                [25, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                       Universitas Timika            Timika", {
+            "entities": [
+                [39, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                                         Universitas Nuku  Tidore Kepulauan", {
+            "entities": [
+                [41, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                             Universitas Pepabri Makassar          Makassar", {
+            "entities": [
+                [29, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                            Universitas Sulawesi Tenggara           Kendari", {
+            "entities": [
+                [28, 75, "EDUCATIONS"]
+            ]
+        }],
+        ["                              Universitas Kristen Tentena              Poso", {
+            "entities": [
+                [30, 75, "EDUCATIONS"]
+            ]
+        }]
+    ]
+}
